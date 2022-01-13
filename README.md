@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Gil2015/tools_file/blob/master/img/react-native-table-component/react-native-table-component-logo.png?raw=true" width="170" />
+  <img src="https://github.com/FaysalBsata/rn-video-image-carousel/blob/main/FaysalB-logos.jpeg?raw=true" width="170" />
 </p>
 <h1 align="center">React Native Video/Image Carousel Component</h1>
 
